@@ -1,14 +1,10 @@
     
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width=150/>
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif width=150"/>
 </div>
 
 <div id="header" align="center">
