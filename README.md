@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/django.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/flask_edited.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/postgresql.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/rabbit_edited.svg" title="rabbitmq" alt="rabbitmq" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/redis.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/docker_edited.svg" title="docker compose" alt="docker compose" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/nginx_edited.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/mongo_edited.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
