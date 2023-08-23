@@ -37,17 +37,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" style="filter: invert(1);filter: invert(0.5) sepia(1) saturate(5) hue-rotate(175deg);" title="flask" alt="flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="apachekafka" alt="apachekafka" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/fastapi.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/django.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/flask_edited.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/postgresql.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/rabbit_edited.svg" title="rabbitmq" alt="rabbitmq" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/docker_edited.svg" title="docker compose" alt="docker compose" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/nginx_edited.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/mongo_edited.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/rabbit_edited.svg" title="rabbitmq" alt="rabbitmq" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/kafka_edited.svg" title="apache kafka" alt="apache kafka" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/elastic.svg" title="elasticsearch" alt="elasticsearch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/swagger.svg" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
 </div>
 
 ---
