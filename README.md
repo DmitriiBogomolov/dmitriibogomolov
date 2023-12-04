@@ -29,7 +29,7 @@
 
 - :seedling: В ходе обучения в яндекс-практикуме по программе “Мидл Python-разработчик” у меня появился опыт проектирования и командной разработки большого [проекта](https://github.com/DmitriiBogomolov/Cinema-Team-Project), основанного на микросервисной архитектуре.
 
-- :mailbox: Контакты:
+- 📪 Контакты:
   - telegram: [@slntmnd](https://t.me/slntmnd)
   - email: [wdsbogomolov@gmail.com](mailto:wdsbogomolov@gmail.com)
   - linkedin: [linkedin.com/in/dmitriibogomolov](https://linkedin.com/in/dmitriibogomolov)
