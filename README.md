@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=DmitriiBogomolov&style=flat-square&color=blue" alt=""/>
   <h1>
-    Привет
+    Добрый день
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -23,7 +23,7 @@
 
 ---
 
-### :octocat: Обо мне :
+### 🏃 Обо мне :
 Я веб разработчик, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> фокусируюсь на python бэкендах.
 - :telescope: Я ищу возможность для роста и развития на позиции Junior+ Python Developer, чтобы внести свой вклад в проекты и помочь достичь поставленных целей.
 
