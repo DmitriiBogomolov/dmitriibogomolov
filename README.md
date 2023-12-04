@@ -23,7 +23,7 @@
 
 ---
 
-### :woman_technologist: Обо мне :
+### :octocat: Обо мне :
 Я веб разработчик, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> фокусируюсь на python бэкендах.
 - :telescope: Я ищу возможность для роста и развития на позиции Junior+ Python Developer, чтобы внести свой вклад в проекты и помочь достичь поставленных целей.
 
@@ -36,7 +36,7 @@
 
 ---
 
-### :hammer_and_wrench: Технологии:
+### 🏂 Технологии:
 <div>
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/fastapi.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@
 
 ---
 
-### :fire: Статистика :
+### 🔺 Статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitriiBogomolov&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiBogomolov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
