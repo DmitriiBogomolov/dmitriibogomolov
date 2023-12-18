@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=DmitriiBogomolov&style=flat-square&color=blue" alt=""/>
   <h1>
-    Добрый день
+    Привет
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -24,19 +24,18 @@
 ---
 
 ### 🏃 Обо мне :
-Я веб разработчик, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> фокусируюсь на python бэкендах.
-- :telescope: Я ищу возможность для роста и развития на позиции Junior+ Python Developer, чтобы внести свой вклад в проекты и помочь достичь поставленных целей.
+Я веб разработчик, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: Я использую python на бекенде и vue 3 на фронте, ищу возможность для роста и развития, готов к предложениям :)
 
-- :seedling: В ходе обучения в яндекс-практикуме по программе “Мидл Python-разработчик” у меня появился опыт проектирования и командной разработки большого [проекта](https://github.com/DmitriiBogomolov/Cinema-Team-Project), основанного на микросервисной архитектуре.
+- :seedling: Выпускник яндекс-практикума по направлению "Мидл-python разработчик".
 
 - 📪 Контакты:
   - telegram: [@slntmnd](https://t.me/slntmnd)
   - email: [wdsbogomolov@gmail.com](mailto:wdsbogomolov@gmail.com)
-  - linkedin: [linkedin.com/in/dmitriibogomolov](https://linkedin.com/in/dmitriibogomolov)
 
 ---
 
-### 🏂 Технологии:
+### 🏂 Технологии, скоторыми я работаю:
 <div>
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/fastapi.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
@@ -52,6 +51,11 @@
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/elastic.svg" title="elasticsearch" alt="elasticsearch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/swagger.svg" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 🐳 Немного моих проектов:
+not found
 
 ---
 
