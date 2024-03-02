@@ -21,10 +21,10 @@
 ---
 
 ### 🏃 Обо мне :
-Я веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: Использую python на бекенде и vue 3 на фронте, ищу возможность для роста и развития, готов к предложениям :)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: Python разработчик
 
-- :seedling: Выпускник яндекс-практикума по направлению "Мидл-python разработчик".
+- :seedling: Ищу интересные активности.
 
 - 📪 Контакты:
   - telegram: [@slntmnd](https://t.me/slntmnd)
@@ -32,7 +32,7 @@
 
 ---
 
-### 🏂 Технологии, скоторыми я работаю:
+### 🏂
 <div>
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DmitriiBogomolov/dmitriibogomolov/blob/main/icons/fastapi.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
@@ -51,8 +51,8 @@
 
 ---
 
-### 🐳 Немного моих проектов:
-not found
+### 🐳 Look at the projects
+⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 
 ---
 
