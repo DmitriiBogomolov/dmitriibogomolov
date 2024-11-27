@@ -51,11 +51,6 @@
 
 ---
 
-### 🐳 Look at the projects
-⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
-
----
-
 ### 🔺 Статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitriiBogomolov&theme=dark&background=000000)](https://git.io/streak-stats)
 
