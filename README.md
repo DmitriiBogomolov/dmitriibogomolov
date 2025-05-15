@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <!--
   <div id="badges">
     <a href="https://t.me/slntmnd">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
@@ -7,6 +8,7 @@
     <a href="mailto:wdsbogomolov@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
     </a>
+  -->
   </div>
   <img src="https://komarev.com/ghpvc/?username=DmitriiBogomolov&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -24,11 +26,11 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Python разработчик
 
-- :seedling: Ищу интересные активности.
+- :seedling: seeding
 
 - 📪 Контакты:
-  - telegram: [@slntmnd](https://t.me/slntmnd)
-  - email: [wdsbogomolov@gmail.com](mailto:wdsbogomolov@gmail.com)
+  - telegram:
+  - email:
 
 ---
 
